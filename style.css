@@ -1,0 +1,1 @@
+body{font-family:Arial;background:#0d1117;color:#c9d1d9;margin:0;padding:0;}iframe{border-radius:8px;}nav{display:flex;flex-direction:column;}button{margin:4px 0;padding:8px;border:none;border-radius:6px;background:#161b22;color:#c9d1d9;cursor:pointer;}button.active{background:#238636;}main{padding:20px;}section{display:none;}section.active{display:block;}
